@@ -1,0 +1,6 @@
+quart
+hypercorn
+python-dotenv
+websockets
+numpy
+twilio
